@@ -6,7 +6,11 @@
 * Python
 * GoLang
 * IEC61131 (ST, FBD, LD)
-## Используемые технологии
+## Технологии
 * Flask
 * WebSocket
-* 
+* HTML+CSS
+* aiogram3
+* PySide6
+* Qt
+* Tkinter
