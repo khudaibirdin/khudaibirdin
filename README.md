@@ -9,9 +9,12 @@
 * IEC61131 (ST, FBD, LD)
 ## Технологии
 * Flask
+* Django
 * WebSocket
-* HTML+CSS
+* HTML+CSS+JavaScript
 * aiogram3
 * PySide6
 * Qt
 * Tkinter
+## Базы данных
+* Sqlite3
