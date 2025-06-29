@@ -21,4 +21,4 @@
   <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"/>
 </div>
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=khudaibirdin&theme=dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=khudaibirdin&theme=dark){align="center"}
