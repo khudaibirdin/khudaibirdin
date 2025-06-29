@@ -12,4 +12,4 @@
 * PySide6, Qt, Tkinter
 * git, github, docker
 
-[![Statistic](https://github-readme-stats.vercel.app/api?username=khudaibirdin)](https://github.com/anuraghazra/github-readme-stats)
+![Используемые языки](https://github-readme-stats.vercel.app/api/top-langs/?username=khudaibirdin&hide_progress=true)
