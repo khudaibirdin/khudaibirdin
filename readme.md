@@ -20,3 +20,7 @@
   <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"/>
 </div>
+
+<div align="center">
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=khudaibirdin&theme=dark)
+</div>
