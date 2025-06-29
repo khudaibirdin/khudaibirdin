@@ -1,11 +1,17 @@
 # Привет, я Ильнур
 
-## Языки программирования
-* Python
-* GoLang
+## Languages&Tools
+<div>
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
+</div>
+
+||Go|Python|
+|---|---|---|
+|Веб-фреймворки|Fiber, Gin|Django, FastAPI|
+|БД|gorm, sqlc|sqlalchemy, Django ORM|
+|||
 
 ## Технологии в программировании
-* Django, FastAPI, Flask
 * Postgres, MySQL, SQLite, SQLAlchemy
 * HTML, CSS, JavaScript
 * aiogram3
@@ -13,5 +19,3 @@
 * git, github, docker
 
 [![Используемые языки](https://github-readme-stats.vercel.app/api/top-langs/?username=khudaibirdin&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Активность](https://github-readme-activity-graph.vercel.app/graph?username=khudaibirdin&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
